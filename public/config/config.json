@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x94c6EE3919b00c958B98C508F1580bcef73Df6aA",
+  "SCAN_LINK": "https://etherscan.io/address/0x94c6EE3919b00c958B98C508F1580bcef73Df6aA",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "World Cup Collectors Editions",
+  "SYMBOL": "WCCE",
+  "MAX_SUPPLY": 422,
+  "WEI_COST": 13000000000000000,
+  "DISPLAY_COST": 0.013,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/world-cup-collectors-editions",
+  "SHOW_BACKGROUND": true
+}
